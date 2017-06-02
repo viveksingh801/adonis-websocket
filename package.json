@@ -53,7 +53,7 @@
     "lodash": "^4.17.2",
     "node-exceptions": "^1.0.3",
     "resetable": "^1.0.1",
-    "socket.io": "^1.5.1",
+    "socket.io": "^2.0.2",
     "uws": "^0.14.0"
   },
   "repository": {
